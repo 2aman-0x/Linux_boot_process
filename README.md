@@ -54,8 +54,8 @@ User can find these images under ```/boot``` folder
 ```/etc/systemd/system/default.target```
 - bring the system to run-level/targets (6-0)
 
-User can find the difference runlevels files under  
+- User can find the difference runlevels files under  
 ```/usr/lin/systemd/system```  
 ```ls -l runlevel*```  
-To check the current default target(run-level)  
+- To check the current default target(run-level)  
 ```systemctl get-default```
