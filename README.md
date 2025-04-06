@@ -1,3 +1,5 @@
+source : [here](https://youtu.be/sebgrmiYdk4?si=NQUZIoVeRy__Bqph)
+
 ## BIOS  
 - Basic I/O system.  
 - First Program that executed which is stored in read-only memory on motherboard of computer.
